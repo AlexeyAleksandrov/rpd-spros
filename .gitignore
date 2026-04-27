@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts (if any)
+*.log
+
+# Uploads (optional - remove if you want to track uploads)
+uploads/
